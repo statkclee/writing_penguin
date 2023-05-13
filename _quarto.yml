@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website: 
+  navbar: 
+    left:
+      - text: "HTML"
+        href: 01_movie.qmd
+      - text: "PDF"
+        href: 02_movie_pdf.pdf
+      - text: "슬라이드"
+        href: 03_movie_ppt.qmd
+        

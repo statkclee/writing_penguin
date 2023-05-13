@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: b484cd45-0805-4ff0-a85f-29ca752541ae
+      url: 'https://statkclee.quarto.pub/writing-penguin'

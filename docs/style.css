@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Dokdo');
+
+/*-- scss:rules --*/
+.title {
+  font-size: 150px !important;
+  color: blue !important;
+  font-family: 'Dokdo', cursive !important;
+}
+
+
+.reveal h2 {
+  font-size: 70px !important;
+  color: darkgray !important;
+  font-family: 'Dokdo', cursive !important;
+  font-variant: small-caps;
+}
+
+.reveal h1 {
+  font-size: 100px !important;
+  color: black !important;
+  font-family: 'Dokdo', cursive !important;
+  font-variant: small-caps;
+}
+
+
+.reveal p {
+  font-size: 25px !important;
+  font-family: NanumGothic !important;
+  font-variant: small-caps;
+}
